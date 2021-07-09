@@ -4,7 +4,7 @@
 
 //extern double mat_v1[], mat_v2[];/* the length of these two vector might change.*/
 #define numGrid 999 
-#define numData 390
+#define numData 180
 #define FILEPATH "input_data/mapDataOR100/C1.txt"
 extern double mat_t[numGrid];
 extern double mat_Temp[numGrid];
